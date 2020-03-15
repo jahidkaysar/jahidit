@@ -1,0 +1,11 @@
+C:\Users\Jahid Kaysar\source\repos\ClassInterface\ClassInterface\bin\Debug\netcoreapp3.0\ClassInterface.exe
+C:\Users\Jahid Kaysar\source\repos\ClassInterface\ClassInterface\bin\Debug\netcoreapp3.0\ClassInterface.deps.json
+C:\Users\Jahid Kaysar\source\repos\ClassInterface\ClassInterface\bin\Debug\netcoreapp3.0\ClassInterface.runtimeconfig.json
+C:\Users\Jahid Kaysar\source\repos\ClassInterface\ClassInterface\bin\Debug\netcoreapp3.0\ClassInterface.runtimeconfig.dev.json
+C:\Users\Jahid Kaysar\source\repos\ClassInterface\ClassInterface\bin\Debug\netcoreapp3.0\ClassInterface.dll
+C:\Users\Jahid Kaysar\source\repos\ClassInterface\ClassInterface\bin\Debug\netcoreapp3.0\ClassInterface.pdb
+C:\Users\Jahid Kaysar\source\repos\ClassInterface\ClassInterface\obj\Debug\netcoreapp3.0\ClassInterface.csprojAssemblyReference.cache
+C:\Users\Jahid Kaysar\source\repos\ClassInterface\ClassInterface\obj\Debug\netcoreapp3.0\ClassInterface.AssemblyInfoInputs.cache
+C:\Users\Jahid Kaysar\source\repos\ClassInterface\ClassInterface\obj\Debug\netcoreapp3.0\ClassInterface.AssemblyInfo.cs
+C:\Users\Jahid Kaysar\source\repos\ClassInterface\ClassInterface\obj\Debug\netcoreapp3.0\ClassInterface.dll
+C:\Users\Jahid Kaysar\source\repos\ClassInterface\ClassInterface\obj\Debug\netcoreapp3.0\ClassInterface.pdb
