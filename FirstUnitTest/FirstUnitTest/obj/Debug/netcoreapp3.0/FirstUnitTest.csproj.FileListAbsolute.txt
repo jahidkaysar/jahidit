@@ -1,0 +1,11 @@
+C:\Users\Jahid Kaysar\source\repos\FirstUnitTest\FirstUnitTest\bin\Debug\netcoreapp3.0\FirstUnitTest.exe
+C:\Users\Jahid Kaysar\source\repos\FirstUnitTest\FirstUnitTest\bin\Debug\netcoreapp3.0\FirstUnitTest.deps.json
+C:\Users\Jahid Kaysar\source\repos\FirstUnitTest\FirstUnitTest\bin\Debug\netcoreapp3.0\FirstUnitTest.runtimeconfig.json
+C:\Users\Jahid Kaysar\source\repos\FirstUnitTest\FirstUnitTest\bin\Debug\netcoreapp3.0\FirstUnitTest.runtimeconfig.dev.json
+C:\Users\Jahid Kaysar\source\repos\FirstUnitTest\FirstUnitTest\bin\Debug\netcoreapp3.0\FirstUnitTest.dll
+C:\Users\Jahid Kaysar\source\repos\FirstUnitTest\FirstUnitTest\bin\Debug\netcoreapp3.0\FirstUnitTest.pdb
+C:\Users\Jahid Kaysar\source\repos\FirstUnitTest\FirstUnitTest\obj\Debug\netcoreapp3.0\FirstUnitTest.csprojAssemblyReference.cache
+C:\Users\Jahid Kaysar\source\repos\FirstUnitTest\FirstUnitTest\obj\Debug\netcoreapp3.0\FirstUnitTest.AssemblyInfoInputs.cache
+C:\Users\Jahid Kaysar\source\repos\FirstUnitTest\FirstUnitTest\obj\Debug\netcoreapp3.0\FirstUnitTest.AssemblyInfo.cs
+C:\Users\Jahid Kaysar\source\repos\FirstUnitTest\FirstUnitTest\obj\Debug\netcoreapp3.0\FirstUnitTest.dll
+C:\Users\Jahid Kaysar\source\repos\FirstUnitTest\FirstUnitTest\obj\Debug\netcoreapp3.0\FirstUnitTest.pdb

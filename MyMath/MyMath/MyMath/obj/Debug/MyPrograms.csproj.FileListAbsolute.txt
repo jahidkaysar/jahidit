@@ -1,0 +1,12 @@
+C:\Users\Umair Jameel\Desktop\MyMath\MyMath\bin\Debug\MyMath.exe.config
+C:\Users\Umair Jameel\Desktop\MyMath\MyMath\bin\Debug\MyMath.exe
+C:\Users\Umair Jameel\Desktop\MyMath\MyMath\bin\Debug\MyMath.pdb
+C:\Users\Umair Jameel\Desktop\MyMath\MyMath\obj\Debug\MyMath.exe
+C:\Users\Umair Jameel\Desktop\MyMath\MyMath\obj\Debug\MyMath.pdb
+C:\Users\Umair Jameel\Desktop\MyMath\MyMath\obj\Debug\MyPrograms.csprojResolveAssemblyReference.cache
+C:\Users\Jahid Kaysar\source\repos\MyMath\MyMath\MyMath\bin\Debug\MyMath.exe.config
+C:\Users\Jahid Kaysar\source\repos\MyMath\MyMath\MyMath\bin\Debug\MyMath.exe
+C:\Users\Jahid Kaysar\source\repos\MyMath\MyMath\MyMath\bin\Debug\MyMath.pdb
+C:\Users\Jahid Kaysar\source\repos\MyMath\MyMath\MyMath\obj\Debug\MyPrograms.csprojAssemblyReference.cache
+C:\Users\Jahid Kaysar\source\repos\MyMath\MyMath\MyMath\obj\Debug\MyMath.exe
+C:\Users\Jahid Kaysar\source\repos\MyMath\MyMath\MyMath\obj\Debug\MyMath.pdb

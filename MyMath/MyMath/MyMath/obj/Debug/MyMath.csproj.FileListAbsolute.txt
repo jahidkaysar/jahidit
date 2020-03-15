@@ -1,0 +1,6 @@
+C:\Users\Umair Jameel\Desktop\MyMath\MyMath\bin\Debug\MyMath.exe.config
+C:\Users\Umair Jameel\Desktop\MyMath\MyMath\bin\Debug\MyMath.exe
+C:\Users\Umair Jameel\Desktop\MyMath\MyMath\bin\Debug\MyMath.pdb
+C:\Users\Umair Jameel\Desktop\MyMath\MyMath\obj\Debug\MyMath.csprojResolveAssemblyReference.cache
+C:\Users\Umair Jameel\Desktop\MyMath\MyMath\obj\Debug\MyMath.exe
+C:\Users\Umair Jameel\Desktop\MyMath\MyMath\obj\Debug\MyMath.pdb
